@@ -60,6 +60,5 @@ Vector DB (Context Storage)
 
 ```bash
 git clone https://github.com/RTYROCKERS/Hybrid-Memory-AI-Assistant.git
-cd pypro
 
 pip install -r requirements.txt
